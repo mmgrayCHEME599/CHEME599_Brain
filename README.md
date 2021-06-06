@@ -1,5 +1,6 @@
 # CHEME599_Brain
-Repository for CHEME599 Term Project on segmenting and tracking neurons in two-photon calcium imaging datasets
+Repository for CHEME599 Term Project on segmenting and tracking neurons in two-photon calcium imaging datasets.
+
 This workflow has been tested on .tif, .tiff, .jpeg, and .png images
 
 **Project Goals**
