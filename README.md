@@ -4,9 +4,9 @@ Repository for CHEME599 Term Project on segmenting and tracking neurons in two-p
 This workflow has been tested on .tif, .tiff, .jpeg, and .png images
 
 **Project Goals**
-1. Filter images to remove extraneous information
-2. Segment Neurons
-3. Track Neurons in multi-day datasets 
+1. To diminish the contribution of out-of- plane fluorescence from the overall signal (i.e. filter the images)
+2. Segment neurons
+3. Track segmented neurons over time
 
 **These goals are represented by three notebooks within this repository**
 1. To determine what image filter provides the best preprocessing for your applications, go to the preprocess_testing folder and use the `Filter_Testing.ipynb` notebook to visualize some options I prepared. Once you decide which you like best, integrate the corresponding function (`.py` file) into your workflow. This notebook was built to work on GoogleColab. 
